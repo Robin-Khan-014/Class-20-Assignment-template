@@ -1,0 +1,37 @@
+.bg-title{
+    background: rgb(209, 231, 247);
+}
+.logo img{
+    width: 30px;
+}
+.bg-breadcrump{
+    background: rgb(209, 206, 206);
+    border-radius: 5px;
+}
+.carousel-item{
+    height: 400px;
+}
+/* alert Section */
+.Alart{
+}
+/* Progress-Section */
+.progress{
+    margin-bottom: 5px;
+}
+.accordion-button{
+    color: rgb(6, 123, 233);
+    font-weight: 600;
+    
+}
+/* .accordion h2{
+    position: relative;
+}
+.accordion h2::after{
+    content: '';
+    width: 100%;
+    height: 2px;
+    background: rgb(1, 32, 61);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+} */
